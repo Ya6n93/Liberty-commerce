@@ -1,0 +1,68 @@
+h5
+{
+    text-align: center;
+    font-size: x-large;
+    color: purple;
+    padding-top: 200px;
+}
+#blockprod
+{
+    width: 1000px;
+    height: auto;
+    background-color:  #3A3B3B;
+    border: 5px solid purple;
+    color: white;
+    margin-left: 25%;
+}
+.buy
+{
+    margin-left: 45%;
+    background-color: purple;
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: yellow;
+    color: yellow;
+}
+#imgprod
+{
+    width: 400px;
+    height: 400px;
+    margin-left: 30%;
+}
+.pdiv
+{
+    margin-top: 20px;
+    margin-left: 45%;
+    font-size: xx-large;
+    color: purple;
+}
+
+#pdes
+{
+    font-size: xx-large;
+}
+
+
+.carac
+{
+    text-align: center;
+    color: mediumpurple;
+    font-size: x-large;
+
+}
+a
+{
+    text-decoration: #581845;
+    margin-right:10px;
+    font-size: x-large;
+    color: white;
+}
+input
+{
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+    font-size: large;
+    width: 40px;
+}

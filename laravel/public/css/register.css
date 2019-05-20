@@ -1,0 +1,103 @@
+h2
+{
+    text-align: center;
+    font-size: x-large;
+    color: purple;
+    padding-top: 200px;
+}
+
+#aregbut
+{
+    text-decoration: #581845;
+    margin-left: 75%;
+    font-size: x-large;
+    color: white;
+}
+#aregbut:hover
+      {
+	  color: yellow;
+      }
+#navigation li
+{
+    display: inline;
+    justify-content: space-between;
+}
+form
+{
+    background-color: #3A3B3B;
+    margin: auto;
+    width:500px;
+    font-size: x-large;
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+    color: white;
+
+}
+fieldset
+{
+    border: none;
+}
+#regbut
+{
+    vertical-align: middle;
+    width: 100px;
+    margin: 0;
+    margin-left: 70%;
+    background-color: #3A3B3B;
+    border: none;
+
+}
+#regbut:hover
+{
+    transform: scale(1.2);
+    transition: all .4s ease-in-out;
+}
+#np
+{
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: grey;
+    background-color: white;
+    margin-left: 10%;
+}
+#mail
+{
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: grey;
+    background-color: white;
+    margin-left: 14%;
+}
+#pswd
+{
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: grey;
+    background-color: white;
+    margin-left: 30%;
+}
+#pswdr
+{
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: grey;
+    background-color: white;
+    margin-left: 7%;
+}
+#regimg
+{
+    width: 100px;
+}
+a
+{
+    text-decoration: #581845;
+    margin-right:10px;
+    font-size: x-large;
+    color: white;
+}

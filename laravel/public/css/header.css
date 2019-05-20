@@ -1,0 +1,73 @@
+body
+{
+    background-image: url(https://1.bp.blogspot.com/-QoMQzGJNYpE/WQbHfODjVsI/AAAAAAAAAEk/FksGCbecrSU7N9TiwdskdwC9tNl1QVyGQCLcB/s1600/3d_cubes-HD.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 5em;
+}
+header
+{
+    padding-top: 1px;
+    background-color: #3A3B3B;
+    opacity: 0.5;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+h1
+{
+    color: white;
+}
+.buttonnav
+{
+     position: relative;
+     top:  40px;
+     justify-content: space-between;
+}
+#logo
+{
+    vertical-align: middle;
+    width: 100px;
+    margin: 0;
+}
+#logo:hover
+{
+    transform: scale(1.2);
+    transition: all .4s ease-in-out;
+}
+.menuimg
+{
+    vertical-align: middle;
+    width: 100px;
+    margin: 0;
+}
+.menuimg:hover
+	{
+	    transform: scale(1.2);
+	    transition: all .4s ease-in-out;
+	}
+
+ a:hover
+      {
+	  color: yellow;
+      }
+.navigation
+{
+    display: inline;
+    justify-content: space-between;
+}
+.navigation:hover
+{
+    transform: scale(1.2);
+    transition: all .4s ease-in-out;
+}
+p
+{
+    margin: 0;
+}

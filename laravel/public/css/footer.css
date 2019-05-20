@@ -1,0 +1,27 @@
+footer
+{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #3A3B3B;
+    text-align: center;
+}
+
+.afoot
+{
+    display: inline;
+}
+
+#pfoot
+{
+    font-size: large;
+    text-align: center;
+    color: white;
+}
+
+.footimg
+{
+    height: 25px;
+    width: 25px;
+}

@@ -1,0 +1,68 @@
+h3
+{
+    margin-top: 200px;
+    text-align: center;
+    font-size: x-large;
+    color: purple;
+}
+#block
+{
+    width: 350px;
+    float: left;
+    margin-left: 100px;
+}
+.rectangle
+{
+    width: 300px;
+    height: 500px;
+    background-color: #3A3B3B;
+    border: 5px solid purple;
+    color: white;
+    margin-bottom: 30px;
+}
+.imgcata
+{
+    width: 300px;
+    height: 300px;
+    margin-top: 0px;
+}
+.pdiv
+{
+    margin-top: 20px;
+    margin-left: 33%;
+    font-size: x-large;
+    color: yellow;
+}
+#apanier
+{
+    margin-left: 40%;
+    background-color: purple;
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: yellow;
+    color: yellow;
+}
+#aproduit
+{
+    margin-left: 33%;
+    background-color: purple;
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: yellow;
+    color: yellow;
+}
+a
+{
+    text-decoration: #581845;
+    margin-right:10px;
+    font-size: large;
+    color: white;
+}
+img
+{
+    vertical-align: middle;
+    width: 100px;
+    margin: 0;
+}

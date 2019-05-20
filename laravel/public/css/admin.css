@@ -1,0 +1,92 @@
+h4
+{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding-top: 150px;
+}
+#admindiv
+{
+    background-color: #3A3B3B;
+    margin-left: 250px;
+    width:500px;
+    font-size: x-large;
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+    text-align: center;
+    color: white;
+    margin-bottom: 22%;
+}
+input
+{
+    height: 30px;
+    width: 400px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+    font-size: x-large;
+}
+select
+{
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+    height: 30px;
+    width: 400px;
+    font-size: x-large;
+}
+textarea
+{
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+    font-size: large;
+}
+#addbut
+{
+    background-color: #3A3B3B;
+    border: none;
+}
+#addbut:hover
+{
+    transform: scale(1.2);
+    transition: all .4s ease-in-out;
+}
+#category
+{
+    color: purple;
+}
+a
+{
+    text-decoration: #581845;
+    font-size: x-large;
+    color: white;
+}
+#count
+{
+    text-align: center;
+    font-size: x-large;
+    background-color: #3A3B3B;
+    color: white;
+    margin-bottom: 22%;
+    border: 4px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: purple;
+}
+#all
+{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    height: 50%;
+}
+#update
+{
+    border: none;
+    margin-left: 43%;
+    height: 100px;
+    width: 100px;
+}
